@@ -1,0 +1,10 @@
+main: com.tut.Tut2
+version: 1.6
+name: Tutorial_Plugin
+
+commands:
+  hello:
+    description: Sends Player Message
+  goodbye: 
+    description: Telports Player to the "Goodbye Area"
+    
